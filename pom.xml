@@ -8,7 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>shell</name>
+    <name>AEMAdmin-Shell</name>
     <description>Shell Wrapper for the AEM Tool</description>
 
     <parent>
