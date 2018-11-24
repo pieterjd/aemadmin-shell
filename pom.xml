@@ -41,6 +41,11 @@
             <artifactId>AEMAdmin</artifactId>
             <version>0.1-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <groupId>com.github.tsohr</groupId>
+            <artifactId>json</artifactId>
+            <version>0.0.1</version>
+        </dependency>
     </dependencies>
 
     <build>
