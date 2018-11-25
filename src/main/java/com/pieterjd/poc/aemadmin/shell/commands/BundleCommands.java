@@ -1,7 +1,6 @@
 package com.pieterjd.poc.aemadmin.shell.commands;
 
 import com.pieterjd.aemadmin.command.StatusBundlesCommand;
-import com.pieterjd.aemadmin.command.packmgr.ListPackagesCommand;
 import org.springframework.shell.standard.ShellComponent;
 import org.springframework.shell.standard.ShellMethod;
 
